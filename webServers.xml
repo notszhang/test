@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="23d055cd-5022-49ea-91d6-1cfe7e2d8546" name="生产服务器" url="http://39.104.57.235">
-        <fileTransfer host="39.104.57.235" port="1035" rootFolder="/home/wechat" accessType="SFTP">
+        <fileTransfer host="39.104.57.235" port="1035" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
