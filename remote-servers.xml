@@ -1,0 +1,17 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="flaskDocker" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="F:\pythonwork\docker" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="F:\pythonwork\docker" />
+              <option name="virtualMachinePath" value="/home/wechat" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
